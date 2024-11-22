@@ -43,3 +43,9 @@ section {
     padding: 20px;
     background-color: hsl(0, 0%, 26%);
 }
+
+h2 {
+    color: #0076e3;
+    font-size: 1.8em;
+    margin-bottom: 1.8px;
+}
