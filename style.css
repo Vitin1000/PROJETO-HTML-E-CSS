@@ -11,7 +11,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif ;
-    background-color: #dbdbdb;
+    background-color: #293344;
     color: #ffffff;
     line-height: 1.6;
     padding: 20px;
@@ -41,7 +41,7 @@ main {
 section {
     margin-bottom: 20px;
     padding: 20px;
-    background-color: hsl(0, 0%, 26%);
+    background-color: hsl(237, 40%, 18%);
 }
 
 h2 {
